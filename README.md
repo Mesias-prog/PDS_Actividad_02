@@ -3,9 +3,13 @@ Maestría en Software – Universidad Politécnica Salesiana Asignatura: Patrone
 Grupo: 8 Integrantes:
 
 Naranjo Rivadeneira Christian Alberto
+
 Loor Maridueña Jordy Alexander
+
 Mesias Velez Diego Calixto
+
 Cordova Calle Juan Jose
+
 # PDS – Actividad 02: Patrones estructurales
 
 Maestría en Software · Patrones de Diseño de Software · Grupo XX
