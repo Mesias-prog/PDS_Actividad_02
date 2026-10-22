@@ -1,18 +1,15 @@
-Maestría en Software – Universidad Politécnica Salesiana Asignatura: Patrones de Diseño de Software
-
-Grupo: 8 Integrantes:
-
-Naranjo Rivadeneira Christian Alberto
-
-Loor Maridueña Jordy Alexander
-
-Mesias Velez Diego Calixto
-
-Cordova Calle Juan Jose
-
 # PDS – Actividad 02: Patrones estructurales
 
-Maestría en Software · Patrones de Diseño de Software · Grupo XX
+**Maestría en Software – Universidad Politécnica Salesiana**  
+**Asignatura:** Patrones de Diseño de Software  
+**Grupo:** 08
+
+**Integrantes:**
+
+- Naranjo Rivadeneira Christian Alberto
+- Loor Maridueña Jordy Alexander
+- Mesias Velez Diego Calixto
+- Cordova Calle Juan Jose
 
 Implementación en **Java 21** (sin dependencias externas) de los dos escenarios de la actividad:
 
